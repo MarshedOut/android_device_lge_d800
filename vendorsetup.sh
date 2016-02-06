@@ -1,1 +1,1 @@
-add_lunch_combo cm_d800-userdebug
+add_lunch_combo mo_d800-userdebug
